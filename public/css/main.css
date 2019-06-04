@@ -89,7 +89,7 @@ header .logo img {
   border-left: 1px solid #dedede;
 }
 .social-info li a {
-  color: #aeaeae;
+  color: #fff;
   padding: 3px 12px;
   border-right: 1px solid #dedede;
 }
@@ -380,7 +380,7 @@ header .logo img {
   opacity: .8;
 }
 footer {
-  background: #f9f9f9;
+  background: #333c44;
   border-top: 1px solid #e8e8e8;
   padding: 40px 0 20px;
 }
@@ -393,7 +393,7 @@ footer .footer-logo img {
   width: 160px;
 }
 footer p {
-  color: #6F6F6F;
+  color: #ccc;
   margin-top: 10px;
   margin-bottom: 0;
 }
