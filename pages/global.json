@@ -1,0 +1,38 @@
+{
+    "site_name": "App Plus",
+    "img_favicon": "https://lh3.googleusercontent.com/5SVrpLI9utkuVJbQb48cpD3tar59mgWaWSAM73Ghj8dxFJMD2UOzkhO5ptWDd2uV2eqgSvDCSa-Ad8aOrygXx6nv",
+    "img_logo_nav": "https://lh3.googleusercontent.com/lcY1hqibtpYHE5WGMfqjTpXXAo7nJ6ivNJMACIqpirEPCBcHGnEW4yVfHplWbvh6me0NpHM1QrCdTL3hQhBkm9AQBw",
+    "img_logo_footer": "https://lh3.googleusercontent.com/lcY1hqibtpYHE5WGMfqjTpXXAo7nJ6ivNJMACIqpirEPCBcHGnEW4yVfHplWbvh6me0NpHM1QrCdTL3hQhBkm9AQBw",
+    "subscriber_confirmation": "Thank you for subscribing! We will contact you shortly.",
+    "register": {
+        "title": "Register",
+        "subtitle": "Lorem ipsum dolor sit amet consectetur adipiscing elit quae cum dixisset finem ille.",
+        "button_text": "Register",
+        "button_color": "blueviolet"
+    },
+    "footer": {
+        "social": {
+            "facebook": {
+                "link": "https://www.facebook.com",
+                "show_or_hide": true
+            }, 
+            "twitter": {
+                "link": "https://www.twitter.com",
+                "show_or_hide": true
+            },
+            "linkedin": {
+                "link": "https://www.linkedin.com",
+                "show_or_hide": true
+            },
+            "instagram": {
+                "link": "https://www.instagram.com",
+                "show_or_hide": true
+            },
+            "youtube": {
+                "link": "https://www.youtube.com",
+                "show_or_hide": true
+            }
+        },
+        "copyright": "Copyright © 2014 Themefisher. All rights reserved. Designed & developed by themefisher.com"
+    }
+}

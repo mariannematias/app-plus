@@ -1,0 +1,63 @@
+{
+    "hero_section": {
+        "img_hero": "https://lh3.googleusercontent.com/kNYbSyOG2ZFDEfCmCCjIukF8m8HCJTxzKcoWdUM8Z8OYsH5zmTatVYgk8YKezUCo4YuKYU7RFwIlDUPJrfMf-6lf_UU",
+        "title": "Beautiful, simple and easy to use App Plus.",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nemo, corporis ipsum soluta nobis ea!",
+        "btn_text": "Learn More",
+        "btn_color": "blueviolet"
+    },
+    "section1": {
+        "lists": {
+            "list1": {
+                "img_list": "https://lh3.googleusercontent.com/CIONF234tFLyxUiNIbEHINqrrgp4IXCnAzsZIC6jZmAFzdVxle4Sg0ofpuCCaz98FbHWbB-Sb6UoUfY03_ldWPgnMg",
+                "title": "Fully Customizable",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, amet."
+            },
+            "list2": {
+                "img_list": "https://lh3.googleusercontent.com/WUbU9OahXoOTDbo92ibSacjgegYCxvvCwD3JxdIQkds5WzCjrMj9-2lhvAbCPVgQbO6xZ9CBE1hnBl07zf0cwKaXV9o",
+                "title": "Gorgeous design",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, amet."
+            },
+            "list3": {
+                "img_list": "https://lh3.googleusercontent.com/oDC2d559QtYqF9RvBYIiLr9vn2mZHzLZxCozlNR9RKhxm5bBp9K8L2O6d8Gn_0CUnGL_uCeuIkPvJMHlO1rvSgO-4fI",
+                "title": "Well documented.",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente, amet."
+            }
+        },
+        "show_or_hide": true
+    },
+    "section2": {
+        "title": "Our Focus on Feature",
+        "lists": {
+            "list1": {
+                "img_list": "https://lh3.googleusercontent.com/yoy67CtGAMIqzg-CKBHglur_N7YUO7DWjIc6bKzBEfCe3dA-yf4smgZXV6RxUFyyj28P7fKKrVZF9XZM3xmVPqAyHQ",
+                "title": "Reliable and Secure Platform",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisici ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea com."
+            },
+            "list2": {
+                "img_list": "https://lh3.googleusercontent.com/yG7BYGy4wPXaa0ns6hSjPJqqtL3UAgSbQyQfv_L_uhp-cLAnjO6WMfdq6ajsrvWk3G9QthfjGTLjrbuTyG4DQTya6g",
+                "title": "Everything is perfectly orgainized",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisici ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea com."
+            },
+            "list3": {
+                "img_list": "https://lh3.googleusercontent.com/fd8HVFEjKZftZarZdxEgmvuLdYjdH1tRNxa9LoLwDIo-ENG0zfmvpCLXTmiCJMEdx_jhLByEb4Cr-34l0UtcoiHO1Q",
+                "title": "Rapid customer support",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisici ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea com."
+            }
+        },
+        "img_section": "https://lh3.googleusercontent.com/3DacbKQFUVDjEUAxjI5NR8r0zOJqMTLjRxUTBmWgf6c9qZVjGtWo8TQkMeiuGo3z3085HQUr3LJWc_qcqiKU0OSc3m0",
+        "show_or_hide": true
+    },
+    "section3": {
+        "img_section": "https://lh3.googleusercontent.com/4twPlUJvz-V-0Pt-yXWAdgubGbPu261318D_pXGasrAF-ANLkYhPZAmAfqfZmLvTvyjhelFj9aBQrQawr2ecrzXy",
+        "title": "Amazing Compatibility",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea com Neque porro quisqua.",
+        "show_or_hide": true
+    },
+    "section4": {
+        "title": "Remarkable Features",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea com Neque porro quisqua.",
+        "img_section": "https://lh3.googleusercontent.com/huifwh4bPIIsfvjXV_-fJumfjpc6b_-sgAe9f6EZ--72cvbyUl2I1pVDX7TbympSTGKgbkkM12OR3Kv_DzG_wThk",
+        "show_or_hide": true
+    }
+}
