@@ -59,5 +59,12 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea com Neque porro quisqua.",
         "img_section": "https://lh3.googleusercontent.com/huifwh4bPIIsfvjXV_-fJumfjpc6b_-sgAe9f6EZ--72cvbyUl2I1pVDX7TbympSTGKgbkkM12OR3Kv_DzG_wThk",
         "show_or_hide": true
+    },
+    "register": {
+        "title": "Register",
+        "subtitle": "Lorem ipsum dolor sit amet consectetur adipiscing elit quae cum dixisset finem ille.",
+        "button_text": "Register",
+        "button_color": "blueviolet",
+        "show_or_hide": true
     }
 }

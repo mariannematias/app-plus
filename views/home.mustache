@@ -150,27 +150,30 @@
 		</section>
 		{{/page.section4.show_or_hide}}
 
+		{{#page.register.show_or_hide}}
 		<section id="register" >
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 wow fadeInDown" data-wow-delay=".8s">
 						<div class="block">
 							<div class="title text-center">
-								<h2>{{global.register.title}}</h2>
-								<p>{{global.register.subtitle}}</p>
+								<h2>{{page.register.title}}</h2>
+								<p>{{page.register.subtitle}}</p>
 							</div>
 
 							<form id="edd_register_form" class="form-inline text-center col-sm-12 col-xs-12" action="" method="post">
 								<input type="text" name="firstname" id="edd-user-firstName" class="form-control" placeholder="First Name">
 								<input type="text" name="lastname" id="edd-user-lastName" class="form-control" placeholder="Last Name">
 								<input type="text" name="email" id="edd-user-email" class="form-control" placeholder="Email">
-								<button id="btn-register" class="btn btn-default" style="background: {{global.register.button_color}};">{{global.register.button_text}}</button>
+								<button id="btn-register" class="btn btn-default" style="background: {{page.register.button_color}};">{{page.register.button_text}}</button>
 							</form>
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
+		{{/page.register.show_or_hide}}
+		
 		{{>footer}}
 	</div>
 

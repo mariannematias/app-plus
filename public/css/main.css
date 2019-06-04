@@ -85,13 +85,10 @@ header .logo img {
 .social-info li {
   display: inline-block;
 }
-.social-info li:first-child a {
-  border-left: 1px solid #dedede;
-}
 .social-info li a {
   color: #fff;
   padding: 3px 12px;
-  border-right: 1px solid #dedede;
+  font-size: 18px;
 }
 .social-info li a:hover {
   color: #f48e5c;
@@ -399,4 +396,11 @@ footer p {
 }
 footer .vertex {
   margin: 40px 0 10px;
+}
+footer .copyright a {
+  color: #ccc;
+}
+footer .copyright a:hover {
+  color: #f48e5c;
+  text-decoration: none;
 }
